@@ -23,6 +23,6 @@ Platform: VS Code / Google Colab / Command Prompt
 
 This project helped in understanding Python fundamentals, logical thinking, and game development concepts. The Hangman Game demonstrates how basic programming constructs can be combined to create an interactive application.
 
-Author
+* Author
 
 Bhumika Patil
